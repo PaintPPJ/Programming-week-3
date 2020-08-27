@@ -1,0 +1,4 @@
+﻿  Source 1.cpp
+C:\Users\DELL\source\repos\programming week 3.1\programming week 3.1\Source 1.cpp(5,21): warning C4101: 'y': unreferenced local variable
+C:\Users\DELL\source\repos\programming week 3.1\programming week 3.1\Source 1.cpp(5,18): warning C4101: 'x': unreferenced local variable
+  programming week 3.1.vcxproj -> C:\Users\DELL\source\repos\programming week 3.1\x64\Debug\programming week 3.1.exe
